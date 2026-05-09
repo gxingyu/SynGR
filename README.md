@@ -1,6 +1,6 @@
 # SynGR: Unleashing the Potential of Cross-Modal Synergy for  Generative Recommendation
 
-This is the source code for the paper "SynGR: Unleashing the Potential of Cross-Modal Synergy for  Generative Recommendation".
+This repo is for source code of 2026 ICML paper "SynGR: Unleashing the Potential of Cross-Modal Synergy for  Generative Recommendation".
 
 ## Abstract
 
@@ -42,3 +42,6 @@ bash script/pretrain.sh
 bash finetune_mask.sh
 ```
 
+### Acknowledgements
+
+This work is implemented based on [MQL4GRec](https://github.com/zhaijianyang/MQL4GRec),  We sincerely thank the authors of these project for their valuable contributions to the open-source community.
